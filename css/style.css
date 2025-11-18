@@ -7,14 +7,14 @@ font-family: "Poppins", sans-serif;
 
 
 body {
-background: linear-gradient(to bottom right, #e3f2f9, #cbe8e0);
-color: #023245;
+background: linear-gradient(to bottom right, black, #310440);
+color: white;
 line-height: 1.6;
 }
 
 
 header {
-background: #48807a;
+background-color: black;
 padding: 20px 0;
 text-align: center;
 color: white;
@@ -58,7 +58,7 @@ box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 
 .highlight {
 font-weight: 600;
-color: #023245;
+color: white;
 }
 
 .project {
@@ -87,7 +87,7 @@ margin: 15px 0;
 .project-link {
 display: inline-block;
 padding: 10px 20px;
-background: #0db550;
+background: #075537;
 color: white;
 border-radius: 6px;
 text-decoration: none;
@@ -125,7 +125,7 @@ border-color: #35a3e8;
 .btn {
 width: 160px;
 padding: 12px;
-background: #0db550;
+background: #075537;
 color: white;
 border: none;
 border-radius: 6px;
@@ -141,7 +141,7 @@ color: black;
 
 footer {
 text-align: center;
-background: #48807a;
+background: black;
 color: white;
 padding: 12px 0;
 margin-top: 40px;
